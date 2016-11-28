@@ -1,6 +1,6 @@
 {
   "name": "boilerplate-front",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "start": "webpack-dashboard -- webpack-dev-server --inline --progress --port 8080",
