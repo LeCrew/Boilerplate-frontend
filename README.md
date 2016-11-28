@@ -2,7 +2,10 @@
 Simple front-end stack with: Webpack, Angular 2, Less CSS support and Webpack Dashboard ready !
 
     $> npm install --save boilerplate-frontend
-   
+
+
+![webpack Dashboard](https://raw.githubusercontent.com/LeCrew/Boilerplate-frontend/public/images/webpackdashboard.png)
+
 
 ## Configuration
 
